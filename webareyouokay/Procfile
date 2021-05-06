@@ -1,0 +1,1 @@
+web: gunicorn areyouokay.wsgi --log-file
